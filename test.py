@@ -1,0 +1,1 @@
+print("Dang hoc thi nho nyc")
